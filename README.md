@@ -22,5 +22,5 @@ Two data sets are provided:
 Contain the plots produced from the script.
 
 # References
-[LDA QDA Guide](http://uc-r.github.io/discriminant_analysis)
+[LDA QDA Guide](http://uc-r.github.io/discriminant_analysis) <br>
 [Gradient Descent](https://hackernoon.com/gradient-descent-aynk-7cbe95a778da)
