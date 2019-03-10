@@ -23,4 +23,4 @@ Contain the plots produced from the script.
 
 # References
 [LDA QDA Guide](http://uc-r.github.io/discriminant_analysis)
-[Gradient Descent] (https://hackernoon.com/gradient-descent-aynk-7cbe95a778da)
+[Gradient Descent](https://hackernoon.com/gradient-descent-aynk-7cbe95a778da)
