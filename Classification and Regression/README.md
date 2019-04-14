@@ -1,4 +1,4 @@
-# You-Never-Go-Full-Bayesian
+# **You-Never-Go-Full-Bayesian**
 
 # Script
 This script contains basic Machine Learning Algorithms
